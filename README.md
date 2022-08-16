@@ -1,0 +1,8 @@
+# C-Programming-Bank-Managment-System
+
+BANK MANAGEMENT SYSTEM - C PROGRAMMING
+
+
+PASSWORD - pass
+
+ATM PIN NUMBER-1234
